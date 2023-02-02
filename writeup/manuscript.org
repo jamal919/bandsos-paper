@@ -1,0 +1,27 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: BandSOS: A self-hosting coastal flood forecasting platform
+#+subtitle: 
+#+date: \today
+#+author: Jamal Khan et al.
+#+email: jamal.khan@univ-lr.fr
+#+cite_export: 
+#+latex_class: article
+#+latex_class_options:
+#+latex_header: \usepackage[a4paper, margin=2cm]{geometry}
+#+latex_header: \hypersetup{colorlinks=true, linkcolor=black, citecolor=blue}
+#+latex_header_extra:
+#+description:
+#+keywords:
+#+latex_compiler: pdflatex
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+
+* Introduction
+* BandSOS Platform
+* Application to the northern Bay of Bengal
